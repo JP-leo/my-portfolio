@@ -53,6 +53,34 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "About Me\nHi! I’m a student passionate about data science and business analytics."
+    "text": "I’m currently a graduate student in the Master of Science in Business Analytics program at Boston University, with a strong passion for data-driven problem-solving and business strategy.\nBefore pivoting into analytics, I completed my Bachelor’s degree in Transportation Engineering, which equipped me with quantitative thinking and system-level planning skills. During my studies and internships, I discovered a strong interest in bridging data insights and decision-making — which brought me to the world of business analytics.\n\n\n\nThroughout my coursework, I’ve gained hands-on experience across various domains:\n\nData Mining & Predictive Modeling (AD699):\n\nBuilt classification models including KNN, Naive Bayes, and Decision Trees\n\nApplied models to Spotify datasets and consumer complaint datasets\n\nConducted model evaluation using confusion matrix, precision-recall, and pruning\n\nWeb Analytics (AD688):\n\nAnalyzed Lightcast job postings using Spark SQL and AWS EC2\n\nCreated interactive dashboards with Plotly (bubble charts, stacked bar charts, Sankey diagrams)\n\nCompleted visual storytelling lab on EC2 with Quarto and Jupyter Notebook\n\nMarketing Analytics (AD654):\n\nDeveloped dashboards using Tableau with lobsterland datasets\n\nModeled membership renewal using Logistic Regression and Random Forest\n\nExplored clustering and segmentation based on user behavior\n\nAWS Academy Labs:\n\nBuilt a full VPC with public/private subnets, NAT, and EC2\n\nConfigured IAM roles, policies, and tested AWS CLI interaction\n\nHosted a web server on EC2 and deployed static websites via GitHub Pages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLanguage & Frameworks\nTools & Platforms\nSkills\n\n\n\n\nPython, R, SQL\nAWS (EC2, IAM, VPC), Tableau, GitHub\nData Wrangling, Visualization, ML Modeling\n\n\nQuarto, Jupyter, VS Code\nGit, GitHub Pages\nPortfolio Websites, Report Automation\n\n\n\n\n\n\n\n\nMicrobrewery Investment Feasibility\nLed a team in financial & market analysis for a startup brewery in Boston. Used simulation models and strategic frameworks to present findings.\nSpotify Genre Classification with KNN\nClassified music tracks using k-nearest neighbors, engineered new features from audio metrics, and optimized model performance.\nConsumer Complaints NLP + Naive Bayes Model\nCleaned and tokenized text data from complaint records and used Naive Bayes to classify issue categories with strong validation results.\nJob Posting Analytics on AWS EC2\nUsed Spark SQL to query Lightcast datasets; created interactive visuals with Plotly; deployed reports via Quarto and GitHub Pages.\n\n\n\n\n\nMy goal is to enter a data-driven consulting or product analytics role where I can help businesses make informed decisions, design smarter strategies, and scale impactful solutions. I enjoy working with people, asking questions, and building tools that make sense of complexity.\n\nThanks for visiting my site! Feel free to contact me or check out my CV for more."
+  },
+  {
+    "objectID": "about.html#academic-highlights-at-bu",
+    "href": "about.html#academic-highlights-at-bu",
+    "title": "About Me",
+    "section": "",
+    "text": "Throughout my coursework, I’ve gained hands-on experience across various domains:\n\nData Mining & Predictive Modeling (AD699):\n\nBuilt classification models including KNN, Naive Bayes, and Decision Trees\n\nApplied models to Spotify datasets and consumer complaint datasets\n\nConducted model evaluation using confusion matrix, precision-recall, and pruning\n\nWeb Analytics (AD688):\n\nAnalyzed Lightcast job postings using Spark SQL and AWS EC2\n\nCreated interactive dashboards with Plotly (bubble charts, stacked bar charts, Sankey diagrams)\n\nCompleted visual storytelling lab on EC2 with Quarto and Jupyter Notebook\n\nMarketing Analytics (AD654):\n\nDeveloped dashboards using Tableau with lobsterland datasets\n\nModeled membership renewal using Logistic Regression and Random Forest\n\nExplored clustering and segmentation based on user behavior\n\nAWS Academy Labs:\n\nBuilt a full VPC with public/private subnets, NAT, and EC2\n\nConfigured IAM roles, policies, and tested AWS CLI interaction\n\nHosted a web server on EC2 and deployed static websites via GitHub Pages"
+  },
+  {
+    "objectID": "about.html#tools-technologies",
+    "href": "about.html#tools-technologies",
+    "title": "About Me",
+    "section": "",
+    "text": "Language & Frameworks\nTools & Platforms\nSkills\n\n\n\n\nPython, R, SQL\nAWS (EC2, IAM, VPC), Tableau, GitHub\nData Wrangling, Visualization, ML Modeling\n\n\nQuarto, Jupyter, VS Code\nGit, GitHub Pages\nPortfolio Websites, Report Automation"
+  },
+  {
+    "objectID": "about.html#projects-im-proud-of",
+    "href": "about.html#projects-im-proud-of",
+    "title": "About Me",
+    "section": "",
+    "text": "Microbrewery Investment Feasibility\nLed a team in financial & market analysis for a startup brewery in Boston. Used simulation models and strategic frameworks to present findings.\nSpotify Genre Classification with KNN\nClassified music tracks using k-nearest neighbors, engineered new features from audio metrics, and optimized model performance.\nConsumer Complaints NLP + Naive Bayes Model\nCleaned and tokenized text data from complaint records and used Naive Bayes to classify issue categories with strong validation results.\nJob Posting Analytics on AWS EC2\nUsed Spark SQL to query Lightcast datasets; created interactive visuals with Plotly; deployed reports via Quarto and GitHub Pages."
+  },
+  {
+    "objectID": "about.html#career-goal",
+    "href": "about.html#career-goal",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to enter a data-driven consulting or product analytics role where I can help businesses make informed decisions, design smarter strategies, and scale impactful solutions. I enjoy working with people, asking questions, and building tools that make sense of complexity.\n\nThanks for visiting my site! Feel free to contact me or check out my CV for more."
   }
 ]
