@@ -1,5 +1,63 @@
-# Projects
+---
+title: "Projects"
+format: html
+---
 
-- Microbrewery Feasibility Study  
-- Spotify KNN Classification  
-- Consumer Complaints Naive Bayes
+# 🧠 Selected Projects
+
+---
+
+## 💻 Job Postings Analysis with Spark SQL & Plotly  
+**Course:** AD688 – Data Mining for Business Analytics  
+**Tech stack:** Spark SQL, AWS EC2, Jupyter, Plotly  
+**Highlights:**  
+- Analyzed Lightcast job posting data using PySpark on AWS EC2  
+- Created interactive visuals (bubble charts, Sankey diagrams, stacked bars)  
+- Used Plotly and Quarto to build and deploy a visual storytelling dashboard  
+- Published results via GitHub Pages
+
+---
+
+## 🎧 Spotify Music Classification using K-Nearest Neighbors  
+**Course:** AD699 – Predictive Modeling  
+**Tech stack:** R, k-NN, classification evaluation  
+**Highlights:**  
+- Built and tuned k-NN models to classify Spotify tracks into genres  
+- Used feature scaling and distance metrics  
+- Evaluated model performance using confusion matrix and error rates
+
+---
+
+## 💬 Consumer Complaint Text Classification using Naive Bayes  
+**Course:** AD699 – Predictive Modeling  
+**Tech stack:** R, text mining, Naive Bayes  
+**Highlights:**  
+- Cleaned and tokenized consumer complaint text data  
+- Built a Naive Bayes classifier to predict issue categories  
+- Compared baseline and enhanced models using training/validation splits
+
+---
+
+## 📊 Tableau Dashboard: Lobsterland Membership Analytics  
+**Course:** AD654 – Marketing Analytics  
+**Tech stack:** Tableau, CSV data, dashboarding  
+**Highlights:**  
+- Built a 4-part dashboard to explore user segments and renewal behaviors  
+- Created bar plots, maps, trend lines, and treemaps  
+- Integrated with `lobsterland_passholders_dataset.csv`  
+- Communicated key insights for marketing strategy optimization
+
+---
+
+## 🍺 Microbrewery Investment Feasibility Consulting Project  
+**Role:** Team Leader  
+**Context:** Group project simulating real-world consulting  
+**Highlights:**  
+- Evaluated the feasibility of launching a microbrewery in Boston  
+- Conducted financial analysis, competitor research, and scenario simulation  
+- Delivered a professional consulting report using managerial analytics tools  
+- Presented findings with visuals and investment recommendations
+
+---
+
+Feel free to visit the [Contact](contact.qmd) page to get in touch or explore more on my [GitHub](https://github.com/JP-leo).

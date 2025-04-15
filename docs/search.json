@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to My Portfolio Website\nThis is a personal website built with Quarto and GitHub Pages."
+    "text": "👋 Hi, I’m Jiapei Li!\nWelcome to my personal portfolio site. I’m a graduate student in Business Analytics at Boston University (BU), with experience in data science, consulting projects, and cloud development.\nThis website features: - My academic & industry projects - My CV and skills - Ways to get in touch\nFeel free to explore and connect!"
   },
   {
     "objectID": "contact.html",
@@ -46,7 +46,42 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\n\nMicrobrewery Feasibility Study\n\nSpotify KNN Classification\n\nConsumer Complaints Naive Bayes"
+    "text": "Course: AD688 – Data Mining for Business Analytics\nTech stack: Spark SQL, AWS EC2, Jupyter, Plotly\nHighlights:\n- Analyzed Lightcast job posting data using PySpark on AWS EC2\n- Created interactive visuals (bubble charts, Sankey diagrams, stacked bars)\n- Used Plotly and Quarto to build and deploy a visual storytelling dashboard\n- Published results via GitHub Pages\n\n\n\n\nCourse: AD699 – Predictive Modeling\nTech stack: R, k-NN, classification evaluation\nHighlights:\n- Built and tuned k-NN models to classify Spotify tracks into genres\n- Used feature scaling and distance metrics\n- Evaluated model performance using confusion matrix and error rates\n\n\n\n\nCourse: AD699 – Predictive Modeling\nTech stack: R, text mining, Naive Bayes\nHighlights:\n- Cleaned and tokenized consumer complaint text data\n- Built a Naive Bayes classifier to predict issue categories\n- Compared baseline and enhanced models using training/validation splits\n\n\n\n\nCourse: AD654 – Marketing Analytics\nTech stack: Tableau, CSV data, dashboarding\nHighlights:\n- Built a 4-part dashboard to explore user segments and renewal behaviors\n- Created bar plots, maps, trend lines, and treemaps\n- Integrated with lobsterland_passholders_dataset.csv\n- Communicated key insights for marketing strategy optimization\n\n\n\n\nRole: Team Leader\nContext: Group project simulating real-world consulting\nHighlights:\n- Evaluated the feasibility of launching a microbrewery in Boston\n- Conducted financial analysis, competitor research, and scenario simulation\n- Delivered a professional consulting report using managerial analytics tools\n- Presented findings with visuals and investment recommendations\n\nFeel free to visit the Contact page to get in touch or explore more on my GitHub."
+  },
+  {
+    "objectID": "projects.html#job-postings-analysis-with-spark-sql-plotly",
+    "href": "projects.html#job-postings-analysis-with-spark-sql-plotly",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD688 – Data Mining for Business Analytics\nTech stack: Spark SQL, AWS EC2, Jupyter, Plotly\nHighlights:\n- Analyzed Lightcast job posting data using PySpark on AWS EC2\n- Created interactive visuals (bubble charts, Sankey diagrams, stacked bars)\n- Used Plotly and Quarto to build and deploy a visual storytelling dashboard\n- Published results via GitHub Pages"
+  },
+  {
+    "objectID": "projects.html#spotify-music-classification-using-k-nearest-neighbors",
+    "href": "projects.html#spotify-music-classification-using-k-nearest-neighbors",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD699 – Predictive Modeling\nTech stack: R, k-NN, classification evaluation\nHighlights:\n- Built and tuned k-NN models to classify Spotify tracks into genres\n- Used feature scaling and distance metrics\n- Evaluated model performance using confusion matrix and error rates"
+  },
+  {
+    "objectID": "projects.html#consumer-complaint-text-classification-using-naive-bayes",
+    "href": "projects.html#consumer-complaint-text-classification-using-naive-bayes",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD699 – Predictive Modeling\nTech stack: R, text mining, Naive Bayes\nHighlights:\n- Cleaned and tokenized consumer complaint text data\n- Built a Naive Bayes classifier to predict issue categories\n- Compared baseline and enhanced models using training/validation splits"
+  },
+  {
+    "objectID": "projects.html#tableau-dashboard-lobsterland-membership-analytics",
+    "href": "projects.html#tableau-dashboard-lobsterland-membership-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD654 – Marketing Analytics\nTech stack: Tableau, CSV data, dashboarding\nHighlights:\n- Built a 4-part dashboard to explore user segments and renewal behaviors\n- Created bar plots, maps, trend lines, and treemaps\n- Integrated with lobsterland_passholders_dataset.csv\n- Communicated key insights for marketing strategy optimization"
+  },
+  {
+    "objectID": "projects.html#microbrewery-investment-feasibility-consulting-project",
+    "href": "projects.html#microbrewery-investment-feasibility-consulting-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Team Leader\nContext: Group project simulating real-world consulting\nHighlights:\n- Evaluated the feasibility of launching a microbrewery in Boston\n- Conducted financial analysis, competitor research, and scenario simulation\n- Delivered a professional consulting report using managerial analytics tools\n- Presented findings with visuals and investment recommendations\n\nFeel free to visit the Contact page to get in touch or explore more on my GitHub."
   },
   {
     "objectID": "about.html",

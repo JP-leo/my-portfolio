@@ -3,6 +3,13 @@ title: "Welcome"
 format: html
 ---
 
-# Welcome to My Portfolio Website
+# 👋 Hi, I’m Jiapei Li!
 
-This is a personal website built with Quarto and GitHub Pages.
+Welcome to my personal portfolio site. I’m a graduate student in Business Analytics at Boston University (BU), with experience in data science, consulting projects, and cloud development.
+
+This website features:
+- My academic & industry projects
+- My CV and skills
+- Ways to get in touch
+
+Feel free to explore and connect!
