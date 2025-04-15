@@ -1,0 +1,26 @@
+---
+title: "CV"
+format: html
+---
+
+# 📄 My Curriculum Vitae
+
+[Click here to download my CV (PDF)](cv.pdf)
+
+---
+
+## Education
+
+- M.S. in Business Analytics, Boston University  
+- B.E. in Transportation Engineering, Shanghai
+
+## Experience
+
+- Internship at TDGRAden: real estate and Tableau analytics  
+- Boutique Investment Internship: basic valuation and strategy  
+- Team lead in microbrewery investment feasibility project
+
+## Tools & Skills
+
+- Python, R, SQL, Spark, AWS EC2  
+- Tableau, Quarto, GitHub Pages, Report Automation

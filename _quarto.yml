@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Portfolio"
+  navbar:
+    left:
+      - text: About You
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: default
+    css: styles.css

@@ -1,0 +1,10 @@
+---
+title: "Contact"
+format: html
+---
+
+# Get in Touch
+
+- 📧 Email: lijiapei14@gmail.com  
+- 🌐 GitHub: [JP-leo](https://github.com/JP-leo)  
+- 📍 Location: Boston, MA

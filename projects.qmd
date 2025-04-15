@@ -1,0 +1,5 @@
+# Projects
+
+- Microbrewery Feasibility Study  
+- Spotify KNN Classification  
+- Consumer Complaints Naive Bayes

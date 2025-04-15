@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Click here to download my CV (PDF)\n\n\n\n\nM.S. in Business Analytics, Boston University\n\nB.E. in Transportation Engineering, Shanghai\n\n\n\n\n\nInternship at TDGRAden: real estate and Tableau analytics\n\nBoutique Investment Internship: basic valuation and strategy\n\nTeam lead in microbrewery investment feasibility project\n\n\n\n\n\nPython, R, SQL, Spark, AWS EC2\n\nTableau, Quarto, GitHub Pages, Report Automation"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "M.S. in Business Analytics, Boston University\n\nB.E. in Transportation Engineering, Shanghai"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "Internship at TDGRAden: real estate and Tableau analytics\n\nBoutique Investment Internship: basic valuation and strategy\n\nTeam lead in microbrewery investment feasibility project"
+  },
+  {
+    "objectID": "cv.html#tools-skills",
+    "href": "cv.html#tools-skills",
+    "title": "CV",
+    "section": "",
+    "text": "Python, R, SQL, Spark, AWS EC2\n\nTableau, Quarto, GitHub Pages, Report Automation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to My Portfolio Website\nThis is a personal website built with Quarto and GitHub Pages."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\n\n📧 Email: lijiapei14@gmail.com\n\n🌐 GitHub: JP-leo\n\n📍 Location: Boston, MA"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n\nMicrobrewery Feasibility Study\n\nSpotify KNN Classification\n\nConsumer Complaints Naive Bayes"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHi! I’m a student passionate about data science and business analytics."
+  }
+]
